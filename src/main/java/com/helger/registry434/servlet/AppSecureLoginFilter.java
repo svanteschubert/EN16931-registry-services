@@ -18,6 +18,7 @@
 package com.helger.registry434.servlet;
 
 import javax.annotation.Nonnull;
+import jakarta.servlet.ServletException;
 
 import com.helger.commons.debug.GlobalDebug;
 import com.helger.commons.state.EContinue;

@@ -18,6 +18,7 @@
 package com.helger.registry434.servlet;
 
 import javax.annotation.Nonnull;
+import jakarta.servlet.ServletContext;
 
 import com.helger.commons.vendor.VendorInfo;
 import com.helger.html.jquery.JQueryAjaxBuilder;
